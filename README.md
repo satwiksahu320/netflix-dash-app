@@ -35,13 +35,20 @@ This project is a data visualization dashboard built using **Plotly** and **Dash
 
 ✅ Bar chart: Count of Movies vs TV Shows  
 📍 More interactive plots can be added using Plotly or Dash Components
+![Bar Chart](screenshots/barchart.png)
 
 ## 📦 How to Run Locally
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/netflix-dashboard.git
+   git clone git clone https://github.com/satwiksahu320/netflix-dash-app.git
    cd netflix-dashboard
 
 
-:
+2. install dependecies
+   pip install -r requirements.txt
+   pip install pandas plotly dash
+3.Run the Dash app
+  python netflix_dash.py
+4.View in Browser
+  Visit: http://127.0.0.1:8050 in your browse
