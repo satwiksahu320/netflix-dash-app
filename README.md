@@ -35,7 +35,7 @@ This project is a data visualization dashboard built using **Plotly** and **Dash
 
 ✅ Bar chart: Count of Movies vs TV Shows  
 📍 More interactive plots can be added using Plotly or Dash Components
-![Bar Chart](screenshots/barchart.PNG)
+![Bar Chart](screenshots/barchart.png)
 
 ## 📦 How to Run Locally
 
