@@ -35,7 +35,7 @@ This project is a data visualization dashboard built using **Plotly** and **Dash
 
 ✅ Bar chart: Count of Movies vs TV Shows  
 📍 More interactive plots can be added using Plotly or Dash Components
-![Bar Chart](screenshots/barchart.png)
+![Bar Chart](screenshots/barchart.PNG)
 
 ## 📦 How to Run Locally
 
@@ -51,4 +51,4 @@ This project is a data visualization dashboard built using **Plotly** and **Dash
 3.Run the Dash app
   python netflix_dash.py
 4.View in Browser
-  Visit: http://127.0.0.1:8050 in your browse
+  Visit: http://127.0.0.1:8050 in your browser
